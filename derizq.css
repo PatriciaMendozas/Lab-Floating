@@ -1,0 +1,21 @@
+.derechaamarillo{
+	background-color: yellow;
+	}
+.derechaazul{
+	background-color: blue;
+	}
+.derecharojo{
+	background-color: red;
+	}
+div{
+	width: 150px;
+	height: 100px;
+}
+.grande{
+	width: 600px;
+	height: 300px;
+	padding: 0px;
+	background: white;
+	border: 1px solid #999999;
+
+}
