@@ -1,0 +1,31 @@
+.derechaamarillo{
+	background-color: yellow;
+	float:left;
+	}
+.derechaazul{
+	background-color: blue;
+	float:left;
+	}
+.derecharojo{
+	background-color: red;
+	float:left;
+	}
+div{
+	width: 150px;
+	height: 100px;
+}
+.grande {
+	width: 600px;
+	height: 300px;
+	padding: 0px;
+	background: white;
+	border: 1px solid #999999;
+}
+.clearfix:before, .clearfix:after{
+	content: "";
+	display: table;
+}
+
+.clearfix:after{
+	clear: both;
+}
